@@ -1,0 +1,12 @@
+# Data
+data/raw/
+data/processed/
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
